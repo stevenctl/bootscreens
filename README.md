@@ -12,7 +12,7 @@ git clone https://github.com/stevenctl/bootscreens ~/.bootscreens
 ```
 
 Install (Mac):
-``
+```
 echo 'BOOTSCREEN_DIR="$HOME/.bootscreens"' >> ~/.bash_profile
 echo '$BOOTSCREEN_DIR/bootscreen' >> ~/.bash_profile
 ```
