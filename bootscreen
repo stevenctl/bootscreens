@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+
+DOW=$(date +%u)
+ART_DIR="$HOME/.bootscreens/all/"
+case $DOW in 
+        3)
+		cat ~/.bootscreens/wednesday.txt
+		;;
+	*)
+	 	FILE=$(ls "$ART_DIR" | sort -R | head -n 1)
+		cat "$ART_DIR/$FILE"
+esac
+
+
+
