@@ -2,7 +2,7 @@
 
 Printing a little art when you open a terminal to make your day better c:
 
-Pleaseee fork and PR with new art (just place it as a txt file in the "all" directory.
+Pleaseee fork and PR with new art (just place it as a txt file in the "all" directory).
 
 #### Installation
 
